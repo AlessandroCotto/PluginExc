@@ -1,7 +1,13 @@
 package dir.java;
 
+
+
 /**
+ * Progetto per simulazione repository pubblico
+ * 
+ * 
  * Classe di esempio per avvio di dw
+ * 
  * @author directa
  *
  */
